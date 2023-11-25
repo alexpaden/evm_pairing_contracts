@@ -10,3 +10,5 @@ main.py will output the filtered results, includes 'PUSH1 0x8 GAS STATICCALL' in
 
 output.parquet will include all original data columns as well as two new columns:
 disassembled code and formatted contract address. clean_output.parquet will include only the two new columns.
+
+![img.png](img.png)
